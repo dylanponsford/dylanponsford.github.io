@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dylanponsford.github.io/al-folio/sitemap.xml
+Sitemap: https://dylanponsford.github.io/sitemap.xml
