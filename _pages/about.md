@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student at [april lab](https://april-tools.github.io/) supervised by [Antonio Vergari](http://nolovedeeplearning.com/). ([april lab](https://april-tools.github.io/) $$\in$$ [Institute for Machine Learning](https://informatics.ed.ac.uk/iml) $$\in$$ [School of Informatics](https://informatics.ed.ac.uk/) $$\in$$ [University of Edinburgh](https://www.ed.ac.uk/)).
+I am a first-year PhD student at [april lab](https://april-tools.github.io/) supervised by [Antonio Vergari](http://nolovedeeplearning.com/). ([april lab](https://april-tools.github.io/) $$\subset$$ [Institute for Machine Learning](https://informatics.ed.ac.uk/iml) $$\subset$$ [School of Informatics](https://informatics.ed.ac.uk/) $$\subset$$ [University of Edinburgh](https://www.ed.ac.uk/)).
 
 My research focuses on efficient and reliable probabilistic methods, with a particular focus on a class of (tractable!) models called [probabilistic circuits](https://starai.cs.ucla.edu/papers/ProbCirc20.pdf).
 
